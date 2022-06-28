@@ -1,0 +1,65 @@
+body {
+	background: white ;
+}
+
+#header-nav {
+	background-color: darkgray;
+}
+
+
+
+#name-logo {
+	text-transform: uppercase;
+	text-decoration-color: black;
+	text-align: left;
+	text-decoration-style: solid;
+	font-weight: bold;
+	font-size: x-large;
+	margin-left: 8px;
+}
+
+#menu-description {
+	margin-top: 25px;
+	margin-bottom: 35px;
+	text-align: center;
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+}
+
+#text-body {
+	width: 98%;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gray;
+	text-align: left;
+	font-size: medium;
+}
+#bg {
+	background-color: gray;
+}
+
+#block-title {
+	text-align:center;
+	text-transform: capitalize;
+	font-size: medium;
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+
+}
+
+
+
+#item {
+	font-weight: bolder;
+	text-transform: capitalize;
+	font-size: medium;
+	text-align: center;
+	background-color: white;
+	border-color: black;
+	border: 2px;
+	color: black;
+
+}
